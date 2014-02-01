@@ -1,0 +1,21 @@
+# Logfile created on 2014-02-01 22:39:53 +0000 by logger.rb/41954
+I, [2014-02-01T22:39:53.417015 #9084]  INFO -- : 0:  i18n (0.6.9) from /Users/jonno/.rvm/gems/ruby-2.0.0-p353@global/specifications/i18n-0.6.9.gemspec
+I, [2014-02-01T22:39:53.417585 #9084]  INFO -- : 0:  minitest (4.7.5) from /Users/jonno/.rvm/gems/ruby-2.0.0-p353/specifications/minitest-4.7.5.gemspec
+I, [2014-02-01T22:39:53.417914 #9084]  INFO -- : 0:  multi_json (1.8.4) from /Users/jonno/.rvm/gems/ruby-2.0.0-p353@global/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-01T22:39:53.418234 #9084]  INFO -- : 0:  atomic (1.1.14) from /Users/jonno/.rvm/gems/ruby-2.0.0-p353@global/specifications/atomic-1.1.14.gemspec
+I, [2014-02-01T22:39:53.418551 #9084]  INFO -- : 0:  thread_safe (0.1.3) from /Users/jonno/.rvm/gems/ruby-2.0.0-p353@global/specifications/thread_safe-0.1.3.gemspec
+I, [2014-02-01T22:39:53.418869 #9084]  INFO -- : 0:  tzinfo (0.3.38) from /Users/jonno/.rvm/gems/ruby-2.0.0-p353@global/specifications/tzinfo-0.3.38.gemspec
+I, [2014-02-01T22:39:53.419186 #9084]  INFO -- : 0:  activesupport (4.0.2) from /Users/jonno/.rvm/gems/ruby-2.0.0-p353@global/specifications/activesupport-4.0.2.gemspec
+I, [2014-02-01T22:39:53.419498 #9084]  INFO -- : 0:  builder (3.1.4) from /Users/jonno/.rvm/gems/ruby-2.0.0-p353@global/specifications/builder-3.1.4.gemspec
+I, [2014-02-01T22:39:53.419928 #9084]  INFO -- : 0:  activemodel (4.0.2) from /Users/jonno/.rvm/gems/ruby-2.0.0-p353@global/specifications/activemodel-4.0.2.gemspec
+I, [2014-02-01T22:39:53.420308 #9084]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /Users/jonno/.rvm/gems/ruby-2.0.0-p353@global/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-02-01T22:39:53.420675 #9084]  INFO -- : 0:  arel (4.0.1) from /Users/jonno/.rvm/gems/ruby-2.0.0-p353@global/specifications/arel-4.0.1.gemspec
+I, [2014-02-01T22:39:53.421044 #9084]  INFO -- : 0:  activerecord (4.0.2) from /Users/jonno/.rvm/gems/ruby-2.0.0-p353@global/specifications/activerecord-4.0.2.gemspec
+I, [2014-02-01T22:39:54.508623 #9084]  INFO -- : 0:  clockwork (0.7.0) from /Users/jonno/.rvm/gems/ruby-2.0.0-p353/specifications/clockwork-0.7.0.gemspec
+I, [2014-02-01T22:39:54.509164 #9084]  INFO -- : 0:  rack (1.5.2) from /Users/jonno/.rvm/gems/ruby-2.0.0-p353@global/specifications/rack-1.5.2.gemspec
+I, [2014-02-01T22:39:55.546553 #9084]  INFO -- : 0:  rack-protection (1.5.2) from /Users/jonno/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.2.gemspec
+I, [2014-02-01T22:39:55.547095 #9084]  INFO -- : 0:  shotgun (0.9) from /Users/jonno/.rvm/gems/ruby-2.0.0-p353/specifications/shotgun-0.9.gemspec
+I, [2014-02-01T22:39:55.547667 #9084]  INFO -- : 0:  tilt (1.4.1) from /Users/jonno/.rvm/gems/ruby-2.0.0-p353@global/specifications/tilt-1.4.1.gemspec
+I, [2014-02-01T22:39:56.981188 #9084]  INFO -- : 0:  sinatra (1.4.4) from /Users/jonno/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.4.gemspec
+I, [2014-02-01T22:39:58.145892 #9084]  INFO -- : 0:  sinatra-activerecord (1.2.4) from /Users/jonno/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-activerecord-1.2.4.gemspec
+I, [2014-02-01T22:39:58.146430 #9084]  INFO -- : 0:  bundler (1.5.1) from /Users/jonno/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec

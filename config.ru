@@ -1,0 +1,3 @@
+require './munch'
+
+run Munch
