@@ -1,6 +1,13 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "shotgun"
-gem "sinatra"
-gem "clockwork"
-gem "sinatra-activerecord"
+gem 'sinatra'
+gem 'sinatra-activerecord'
+gem 'clockwork'
+gem 'json'
+gem 'sqlite3'
+gem 'rake'
+
+group :development, :test do
+  gem 'shotgun'
+  gem 'pry-debugger'
+end
